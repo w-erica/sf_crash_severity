@@ -90,3 +90,4 @@ target/
 
 # data files
 *.csv
+*.pkl
