@@ -96,7 +96,7 @@ The government of San Francisco has crash data avaailable [here](https://data.sf
 
 ### Built With
 
-* [![Flask]][Flask-url]
+* [Flask][Flask-url]
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
